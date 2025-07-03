@@ -125,7 +125,7 @@ function App() {
         <div className="container mx-auto px-6 py-4">
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-2">
-              <span className="text-4xl md:text-5xl font-black text-transparent tracking-wider">JNSP</span>
+              <span className="text-4xl md:text-5xl font-black text-slate-950 tracking-wider">JNSP</span>
             </div>
             <div className="hidden md:flex items-center space-x-8">
               <a href="#home" className="text-blue-200/80 hover:text-white transition-colors">{t.nav.home}</a>
